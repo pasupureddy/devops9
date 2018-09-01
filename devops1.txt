@@ -1,0 +1,90 @@
+Softwares >>> 
+
+
+WEB Application >> Facebook , Gmail , twitter .... ( url >> browser >> 80 / 443 )
+Standalone app/desktop >> .exe, msi,. jar. war, .ear >>  Vlc media
+mobile applications  >> android , ios , windows apps >> 
+
+--------------------------------------------- >>
+
+Flipkart >> e -commr >> {{ {{ shopping ites  }} >> proced order >> Add cart >> bill desk >> order status >> order delivery >> returns/refunds }
+
+
+SDLC >> Software Development Life cycle 
+
+       -- >> Req Gathering   {{ user story )
+           >>  Sys Analuysic  {{   Env setting up }}
+           >>  Coding  {{   coding >> devloper env }}
+            >> Testing  {{ Tester >> test cases  >>  execute testing >> pass/fail }}
+            >> UAT >> User acceptence test {{ client demo }}
+           >>  implementaion/maintenence {{  Production env deploy }}
+
+------------------------- >>
+
+SDLC >> Software Development Life cycle   >>            {[  Developer ++ Tester ++ Devops Team }}
+
+                    {{   Developer Env  >>> TEsting Env  >> Staging Environmt  >> Production env }}
+                              4.5                                                                                                    4.5
+                    Developer >> Local IT/sys eng
+                    testing  >>  Network eng / cloud eng
+                  stage/prod >>   Middle ware team. deployment. production support, Buil and release mgmt }
+
+
+
+                      -- pre-req softwares
+                       -- dependencies 
+
+   Devops  >>  {{ Iiaas >> {{  code }} >
+                                                                dev,test,stage,prod
+
+                        {{  Developer ++  Operations  }} >>   Devops 
+
+   Devloper env >> Devloper sys   {{  setup}} 
+
+   Testing  >>   {{ similar as dev env  }}  >> teste
+  
+   Staging env >> ready to go prod >>  {{ {{ similar as dev env  }}}}  >>  UAT
+
+  Production >> Live env {{{{ {{ similar as dev env  }}}}   >>   www.flipkart.com 
+
+
+--------------------- >>   AS a devops eng >>
+
+
+
+
+    Devops  >>   Iiaas , 
+
+    Agile   >>>  Project model  {{ SDLC }}
+
+    Cloud >>   AWS , Azure, Google Cloud, Ibm .... Open Stack.................
+
+
+-------------- >>
+
+   Web
+   db
+   applications
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ >>   - c, c++ c# java .net
+          windows
+          unix
+          framewrok
+          cloud/vmware/on-perm
+        sys configurstions

@@ -1,0 +1,136 @@
+SAAS 
+PAAS
+IAAS >> server , switches , routers, nacls, subnets , vpc
+SAAS >> {{  100 GB }}  >> 
+Database as server >> bigdata >> 
+
+-------------- >>
+
+  10 yearss >> {{  TBs }}
+
+       clould migrations>
+
+
+ on-perm >> {{ applications, data, storage }}  >>>  AWS {{ Clould }}
+
+
+>> AWS
+>> Azure 
+--------------------  >>
+
+    " Pey per Use "
+
+  >> AWS >> 1 linux server >> runnings 
+                                               >> 5 hours 
+                                                                   // stop
+
+                                               >> start sever >> 5 hourrs 
+
+-------------  bill   {{  10 hours  }}
+
+ 1 hr  >>  .0007 usd $
+
+--- >> Elastic 
+
+   flipkart.com >>> 15 webservers   {{ ser1.....web15 }
+
+                                      loadbalaner >> divide load to the webserver {{ 15000 >> 15000/15 >> 1000 req for each server }}
+
+
+    bb sale >>  30000 >>> 
+
+                       AWS >> Auto scaling >>  {{ 15 web server }}
+
+                                                   threshhold >> cpu util> 80 %  >> 
+                                                                                        bb sale >>  30000 >>>   {{  Auto scaling +++ 15 webserver  }} >> 30 webservers  {{   }}
+
+                                                   thershold << 80 % 
+                                                                                 {{ auto scaling will terminate 15 webserver s }}
+
+                                         
+                                     loadbalaner >> divide load to the webserver {{ 15000 >> 15000/15 >> 1000 req for each server }}
+
+
+                   15 server >> for the time (( 12 hours ))  >> 
+
+>>  Security 
+
+               on-perm {{   5 hp server, 5 dell server }} >>     {{ Firewall , Anti virus .... acl }}
+
+                                 Firewal >> inbould/outbound 
+                                Antivirus >> weekly scaning , update , OS updates, OS patching
+                               ACL >> routing/swithing protocols 
+
+                    
+
+                >>  NACLS, Routes , Subnets , Firewalls, AWS security Guard, AWS Inspecter, Guard duty, VPN
+
+
+------------------- >>
+
+                  online book store >>  books 
+
+                                  u ordered a book  >>
+
+                                                   sms >> with ua order details
+                                                           >> amazon wharehouse >> book >> distpatched book >> {{ nearest wharehouse/ hyd hub}} >> delivery point ( madhapur ) >>
+                                                                                                             >> item out for delivery >> item delivered >> reuturn/refund 
+
+                                                   SQS >> Simple QUEUE Service >>
+
+ -------------------- >>
+
+
+      u create an instance aws 
+
+                                    mumbai >>  {{  az >> two Amazon Datacenter }}
+
+                                               mumbai- east  >> place 1  -az1
+                                              mubai - west   >> place 2   - az2
+
+ 
+
+
+
+
+
+
+>>
+
+
+
+
+
+
+
+
+ 
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
